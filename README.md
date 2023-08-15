@@ -1,6 +1,6 @@
 # we_aac
 
-Auto Advertise Clicker
+Auto Advertise Closer
 
 ## Install
 
